@@ -3,6 +3,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import gsap from 'gsap';
 import styles from './style.module.css';
 
+const phrases = ["I'm Kanishka Joshi,", "a programmer and web developer with expertise in Java,", "full-stack development, and software engineering.", "Explore my projects and skills, and get to know", "my journey in technology and beyond."]
 
 export default function Index() {
 
