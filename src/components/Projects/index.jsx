@@ -50,6 +50,12 @@ export default function Index() {
                         priority={true}
                     />
                 </div>
+                <div className={styles.column}>
+                    <p>Developed a portfolio website using HTML, CSS, and JavaScript to showcase technical skills and projects.The site includes sections on projects, skills, extracurricular activities, and contact information, reflecting a clean design.</p>
+                </div>
+                <div className={styles.column}>
+                    <p>Engineered a JSON Web Token (JWT) library supporting HS256, RS256, and ES256 algorithms to enhance web application security.<br></br> Developed an IoT-based Wireless Controlled GreenHouse to monitor soil humidity and regulate airflow, resulting in better management of plants and resource savings.</p>
+                </div>
             </div>
 
             <div className={styles.projectList}>
